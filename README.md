@@ -1,8 +1,8 @@
 Bonjour ! Je suis Mbengi Gaddiel 👋
 Qui suis-je ? 🌟
-Je viens de terminer ma formation d'intégrateur sur OpenClassrooms et je suis maintenant un développeur junior diplômé 🎓. 
-Passionné par le développement web et avide de nouveaux défis 📚, 
-je suis prêt à contribuer à des projets innovants 🚀.
+Je viens de terminer ma formation d'intégrateur sur OpenClassrooms et je suis maintenant un développeur junior diplômé . 
+Passionné par le développement web et avide de nouveaux défis , 
+je suis prêt à contribuer à des projets innovants .
 
 Mes Compétences 🛠️
 
