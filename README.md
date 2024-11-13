@@ -23,7 +23,7 @@ Améliorez l'interface d'un site mobile avec des animations CSS
 CSS 
 Sass 
 Animations CSS 
-🔗 [Voir le projet](https://github.com/Gaddmb/Ohmyfood.git)
+ [Voir le projet](https://github.com/Gaddmb/Ohmyfood.git)
 
 Créez une page web dynamique avec JavaScript
  Description : Développement d'une page web dynamique pour un site d'architecte d'intérieur. Gestion des événements utilisateurs et interaction avec une API pour enrichir la fonctionnalité.
@@ -32,7 +32,7 @@ JavaScript
 HTML 🏷
 CSS 
 API 
-🔗 [Voir le projet](https://github.com/Gaddmb/Sophie-bluel.git)
+ [Voir le projet](https://github.com/Gaddmb/Sophie-bluel.git)
 
 Créez une application web de location immobilière avec React
  Description : Création du front-end d'une application de location immobilière, avec gestion du routage entre différentes pages et affichage dynamique des données.
@@ -40,8 +40,8 @@ Créez une application web de location immobilière avec React
 React 
 React Router 
 JSON 
-Create React App 🚀
-🔗 [Voir le projet](https://github.com/Gaddmb/Kasa.git)
+Create React App 
+ [Voir le projet](https://github.com/Gaddmb/Kasa.git)
 
 
 contactez moi je serais ravi d'échanger avec vous ! Voici comment me joindre :
