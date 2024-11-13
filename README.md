@@ -45,6 +45,7 @@ Create React App 🚀
 
 
 contactez moi je serais ravi d'échanger avec vous ! Voici comment me joindre :
+
 Email :  gaddielmb@gmail.com
 LinkedIn :  💼
 Merci de votre visite ! 😊
