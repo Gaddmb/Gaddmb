@@ -29,7 +29,7 @@ Créez une page web dynamique avec JavaScript
  Description : Développement d'une page web dynamique pour un site d'architecte d'intérieur. Gestion des événements utilisateurs et interaction avec une API pour enrichir la fonctionnalité.
  Technologies utilisées :
 JavaScript 
-HTML 🏷
+HTML 
 CSS 
 API 
  [Voir le projet](https://github.com/Gaddmb/Sophie-bluel.git)
