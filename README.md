@@ -15,7 +15,7 @@ JavaScript 💻
 React ⚛️
 Redux 🔄
 Node.js 🌐
-MongoDB 📊
+Vite ⚡
 
 Projets 🌟
 
