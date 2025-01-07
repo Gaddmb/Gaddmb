@@ -12,8 +12,6 @@ HTML 🏷️
 CSS 🎨
 Sass 🧵
 JavaScript 💻
-React ⚛️
-Redux 🔄
 Node.js 🌐
 Vite ⚡
 
