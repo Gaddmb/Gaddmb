@@ -13,7 +13,7 @@ CSS 🎨
 Sass 🧵
 JavaScript 💻
 Node.js 🌐
-Vite ⚡
+
 
 Projets 🌟
 
