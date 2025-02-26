@@ -12,6 +12,7 @@ HTML 🏷️
 CSS 🎨
 Sass 🧵
 JavaScript 💻
+React ⚛️
 Node.js 🌐
 
 
