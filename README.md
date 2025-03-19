@@ -1,16 +1,15 @@
-## Hi there 👋
+# 💫 About Me:
+🕷️ Yo ! Moi, c'est Mbengi Gaddiel 👋<br><br>Qui suis-je ?<br><br>💥 Développeur web junior, fraîchement diplômé d'OpenClassrooms et prêt à tisser ma toile dans le monde du code ! Passionné, curieux et toujours en quête de nouveaux défis. Mon objectif ? Monter en skills, Créer des projets qui cartonnent et avec style.<br><br>Mes Super-Pouvoirs 🛠️<br>🕸️ HTML 🏷️ | CSS 🎨 | Sass 🧵 | JavaScript 💻 | React ⚛️ | Node.js 🌐<br><br>Ce que je fais de mieux 🎯<br>⚡ Transformer des maquettes en interfaces fluides et interactives<br>🌀 Apporter du dynamisme aux sites avec des animations percutantes<br>🚀 Construire des applis React bien optimisées<br>🔌 Connecter les bonnes API pour que tout tourne à merveille<br><br>Pourquoi moi ?<br>🕶️ Toujours motivé, toujours prêt à pousser mes limites<br>🧩 J’adore résoudre des bugs <br>🎨 Le design, l’UX, les détails qui font la diff’ ? Je suis dessus !<br><br>Besoin d’un dev dans ton équipe ? 🕷️<br>📩 Email : gaddielmb@gmail.com<br>💼 LinkedIn : Mon profil<br><br>💬 Passe-moi un message, et on tisse quelque chose d’incroyable ensemble ! 🔥<br>
 
-<!--
-**Gaddmb/Gaddmb** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+## 🌐 Socials:
+[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/koumo75) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/gaddielmb/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:gaddielmb@gmail.com) 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+# 💻 Tech Stack:
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=flat&logo=css3&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=flat&logo=node.js&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=flat&logo=react&logoColor=%2361DAFB) ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=flat&logo=react&logoColor=%2361DAFB) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=flat&logo=tailwind-css&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=flat&logo=mongodb&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=flat&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=Gaddmb&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=Gaddmb&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Gaddmb&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
