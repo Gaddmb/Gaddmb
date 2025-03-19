@@ -2,7 +2,7 @@
 🕷️ Yo ! Moi, c'est Mbengi Gaddiel 👋<br><br>Qui suis-je ?<br><br>💥 Développeur web junior, fraîchement diplômé d'OpenClassrooms et prêt à tisser ma toile dans le monde du code ! Passionné, curieux et toujours en quête de nouveaux défis. Mon objectif ? Monter en skills, Créer des projets qui cartonnent et avec style.<br><br>Ce que je fais de mieux 🎯<br>⚡ Transformer des maquettes en interfaces fluides et interactives<br>🌀 Apporter du dynamisme aux sites avec des animations percutantes<br>🚀 Construire des applis React bien optimisées<br>🔌 Connecter les bonnes API pour que tout tourne à merveille<br><br>Pourquoi moi ?<br>🕶️ Toujours motivé, toujours prêt à pousser mes limites<br>🧩 J’adore résoudre des bugs <br>🎨 Le design, l’UX, les détails qui font la diff’ ? Je suis dessus !<br><br>Besoin d’un dev dans ton équipe ? 🕷️<br>💬 Passe-moi un message, et on tisse quelque chose d’incroyable ensemble ! 🔥<br>
 
 
-## 🌐 Socials:
+## 🕸️ Socials:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/koumo75) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/gaddielmb) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:gaddielmb@gmail.com) 
 
 # 💻 Mes Super-Pouvoirs:
