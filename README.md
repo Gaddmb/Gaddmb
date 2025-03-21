@@ -11,7 +11,7 @@ Développeur web junior, diplômé d’OpenClassrooms et passionné par le code 
 
 🦸🏾‍♂️ Pourquoi moi ?<br />
 💪 Toujours motivé, toujours prêt à repousser mes limites<br />
-🧩 Expert en traque de bugs<br />
+🐛 Expert en traque de bugs<br />
 🎨 Passionné par le design et l’UX, aussi précis que mon costume<br />
 
 
