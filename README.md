@@ -1,4 +1,4 @@
-About Me:
+About Me:<br />
 Yo ! Moi c'est Gaddiel, mais tu peux m'appeler Spider-man. 👋
 
 Développeur web junior, diplômé d’OpenClassrooms et passionné par le code ! Toujours en quête de défis, je progresse chaque jour pour devenir un super-héros du développement.<br />
