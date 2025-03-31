@@ -4,15 +4,15 @@ Yo ! Moi c'est Spider-man, mais tu peux m'appeler Gaddiel. 👋
 Développeur web junior, diplômé d’OpenClassrooms et passionné par le code ! Toujours en quête de défis, je progresse chaque jour pour devenir un super-héros du développement.<br />
 
 🕷️ Mes Super-Pouvoirs :<br />
-🕸️ Tissage de code → Transformer des maquettes en interfaces fluides et interactives<br />
-🔮 Sens d’araignée → Repérer et corriger les bugs avant qu’ils ne frappent<br />
-💨 Rapidité d’exécution → Des animations dynamiques pour des sites percutants<br />
-🔗 Tisseur d’API → Connecter les bonnes ressources pour des applications fluides<br />
+ Tissage de code → Transformer des maquettes en interfaces fluides et interactives<br />
+ Sens d’araignée → Repérer et corriger les bugs avant qu’ils ne frappent<br />
+ Rapidité d’exécution → Des animations dynamiques pour des sites percutants<br />
+ Tisseur d’API → Connecter les bonnes ressources pour des applications fluides<br />
 
 🦸🏾‍♂️ Pourquoi moi ?<br />
-💪 Toujours motivé, toujours prêt à repousser mes limites<br />
-🐛 Expert en traque de bugs<br />
-🎨 Passionné par le design et l’UX, aussi précis que mon costume<br />
+ Toujours motivé, toujours prêt à repousser mes limites<br />
+ Expert en traque de bugs<br />
+ Passionné par le design et l’UX, aussi précis que mon costume<br />
 
 
 
