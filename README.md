@@ -8,7 +8,7 @@ Yo ! Moi c'est Spider-man, mais tu peux m'appeler Gaddiel ou Black Spider-man ou
 
 🦸🏾‍♂️ Pourquoi moi ?<br />
  Toujours motivé, toujours prêt à repousser mes limites<br />
- Expert en traque de bugs<br />
+ Expert en traque de bugs ( je deteste les insectes atttend c'est pas un peu contradictoire )<br />
  Passionné par le design et l’UX, aussi précis que mon costume<br />
 
 
