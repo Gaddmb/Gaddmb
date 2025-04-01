@@ -1,4 +1,4 @@
-Yo ! Moi c'est Spider-man, mais tu peux m'appeler Gaddiel ou Black Spider-man ou Spider-Dev ou That Guy ou le tisseur de code ou non mieux le ninja du JavaScript ou peut-etre l'acrobate du CSS fin bref... Peu importe ! Sache juste que je suis un développeur web junior, diplômé d’OpenClassrooms et passionné par le code ! Toujours en quête de défis, je progresse chaque jour pour devenir un super-héros du développement.<br />
+Yo ! Moi c'est Spider-man, mais tu peux m'appeler Gaddiel ou Black Spider-man ou Spider-Dev ou le tisseur de code ou non mieux le ninja du JavaScript ou peut-etre l'acrobate du CSS fin bref... Peu importe ! Sache juste que je suis un développeur web junior, diplômé d’OpenClassrooms et passionné par le code ! Toujours en quête de défis, je progresse chaque jour pour devenir un super-héros du développement.<br />
 
 💪 Mes Super-Pouvoirs :<br />
  Tissage de code → Transformer des maquettes en interfaces fluides et interactives<br />
