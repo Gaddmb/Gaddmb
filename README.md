@@ -2,16 +2,16 @@
 Développeur web junior diplômé d’OpenClassrooms, je passe mes journées à coder, déboguer et à me demander pourquoi certaines fonctions ont décidé de me faire tourner en bourrique.
 Toujours prêt à relever de nouveaux défis et à apprendre chaque jour, je tisse ma toile dans le monde du développement… avec un sens de l’humour digne de Peter Parker.<br />
 
-💪 Mes compétences : <br />
- Développement front-end → Transformer des maquettes en interfaces fluides et interactives<br />
- Débogage → Repérer et corriger les erreurs avant qu'elles n'impactent l’expérience utilisateur<br />
- Animations dynamiques → Créer des animations percutantes pour des sites web modernes<br />
- Intégration d’API → Connecter les bonnes ressources pour des applications performantes<br />
+💪 Mes Super-Pouvoirs :<br />
+🕸️ Développement front-end → Transformer des maquettes en interfaces fluides et interactives (sans tomber dans la toile des bugs).<br />
+🐞 Débogage → Repérer et corriger les erreurs avant qu’elles ne s’attaquent à l’expérience utilisateur.<br />
+⚡ Animations dynamiques → Créer des animations percutantes qui rendent les sites web vivants.<br />
+🔗 Intégration d’API → Connecter les bonnes ressources pour des applications rapides et performantes.<br />
 
 👨🏿‍💻 Pourquoi moi ?<br />
- Toujours motivé et prêt à relever de nouveaux défis<br />
- Expert en résolution de bugs, j’aime trouver et corriger les problèmes rapidement<br />
- Passionné par le design et l’UX, je m’efforce d’offrir des expériences utilisateur optimales<br />
+💥 Toujours motivé et prêt à relever de nouveaux défis… même quand le code me pique comme une araignée radioactive. <br />
+🐞 Expert en résolution de bugs, j’aime traquer et corriger les problèmes avant qu’ils ne deviennent des vilains. <br />
+🎨 Passionné par le design et l’UX, je m’efforce d’offrir des expériences utilisateur dignes d’un super-héros (sans collants, promis). <br />
 
 
 
