@@ -1,4 +1,6 @@
-Hello, moi c'est KOUMO☁️ ou tu peux tout simplement m'appeler Gaddiel. Je suis un développeur web junior, fraîchement diplômé chez OpenClassrooms et passionné par le monde du code. Toujours en quête de nouveaux défis, je progresse chaque jour pour devenir un expert dans mon domaine.<br />
+🕷️ Salut, moi c’est KOUMO☁️ (ou Gaddiel, si tu préfères).
+Développeur web junior diplômé d’OpenClassrooms, je passe mes journées à coder, déboguer et à me demander pourquoi certaines fonctions ont décidé de me faire tourner en bourrique.
+Toujours prêt à relever de nouveaux défis et à apprendre chaque jour, je tisse ma toile dans le monde du développement… avec un sens de l’humour digne de Peter Parker.<br />
 
 💪 Mes compétences : <br />
  Développement front-end → Transformer des maquettes en interfaces fluides et interactives<br />
