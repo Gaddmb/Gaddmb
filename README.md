@@ -2,7 +2,7 @@
 Je code, je débogue… et parfois je parle à mon écran ou à mes lignes de code comme s’ils étaient des vilains (ne juge pas 😅).<br />
 
 Ici, je te dévoile toutes mes compétences… comme si je me mettais à nu devant toi. Bon, peut-être pas complètement, mais tu as compris l’idée 😎.
-Et si tu es curieux, reste dans le coin… mets tes lunettes de soleil, parce que tu vas voir des lignes de code qui pourraient presque te rendre aveugle 🕸️.
+Et si tu es curieux et courageux reste dans le coin mais je te previens mets tes lunettes de soleil, parce que tu vas voir des lignes de code qui pourraient presque te rendre aveugle 🕸️.
 Si tu veux continuer l’aventure, c’est à tes risques et périls : je suis un super-héros, mais je ne peux pas sauver tout le monde, hein 😅
 
 💪 Mes Super-Pouvoirs :<br />
