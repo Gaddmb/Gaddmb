@@ -1,6 +1,9 @@
-🕷️ Salut, moi c’est KOUMO☁️ (ou Gaddiel, si tu préfères).
-Développeur web junior diplômé d’OpenClassrooms, je passe mes journées à coder, déboguer et à me demander pourquoi certaines fonctions ont décidé de me faire tourner en bourrique.
-Toujours prêt à relever de nouveaux défis et à apprendre chaque jour, je tisse ma toile dans le monde du développement… avec un sens de l’humour digne de Peter Parker.<br />
+🕷️ Salut ! Moi c’est Koumo — ou Spider-man, ou Gaddiel si tu préfères. <br />
+Bref, pour faire court : je suis développeur web junior, fraîchement diplômé d’OpenClassrooms.
+Je code, je débogue… et parfois je parle à mon écran ou à mes lignes de code comme s’ils étaient des vilains (ne jugez pas 😅).
+Bienvenue sur mon profil ! Ici, je vous dévoile toutes mes compétences… comme si je me mettais à nu devant vous. Bon, peut-être pas complètement, mais vous avez compris l’idée 😎.
+Et si vous êtes curieux, restez dans le coin… mettez vos lunettes de soleil, parce que vous allez voir des lignes de code qui pourraient presque vous rendre aveugle
+.<br />
 
 💪 Mes Super-Pouvoirs :<br />
 🕸️ Développement front-end → Transformer des maquettes en interfaces fluides et interactives (sans tomber dans la toile des bugs).<br />
