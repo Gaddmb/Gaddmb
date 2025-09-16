@@ -1,20 +1,20 @@
-Salut ! Moi c’est Koumo — ou Spider-man, ou Gaddiel si tu préfères. Bref, pour faire court : je suis développeur web junior, fraîchement diplômé d’OpenClassrooms.
+Salut moi c’est koumo Gaddiel si tu préfères ! Bref, pour faire court : je suis développeur web junior, fraîchement diplômé d’OpenClassrooms.
 Je code, je débogue… et parfois je parle à mon écran ou à mes lignes de code comme s’ils étaient des vilains (ne juge pas ).<br />
 
 Ici, je te dévoile toutes mes compétences… comme si je me mettais à nu devant toi. Bon, peut-être pas complètement, mais tu as compris l’idée .
-Et si tu es curieux et courageux, reste dans le coin… mais je te préviens : mets tes lunettes de soleil parce que tu vas voir des lignes de code qui pourraient presque te rendre aveugle 🕸️.
-Si tu veux continuer l’aventure, c’est à tes risques et périls : je suis un super-héros, mais je ne peux pas sauver tout le monde, hein 
+Et si tu es curieux et courageux, reste dans le coin… mais je te préviens : mets tes lunettes de soleil parce que tu vas voir des lignes de code qui pourraient presque te rendre aveugle.
+Si tu veux continuer l’aventure, c’est à tes risques et périls.
 
-Mes Super-Pouvoirs :<br />
- Développement front-end → Transformer des maquettes en interfaces fluides et interactives (sans tomber dans la toile des bugs).<br />
+Mes Comeptences :<br />
+ Développement front-end → Transformer des maquettes en interfaces fluides et interactives .<br />
  Débogage → Repérer et corriger les erreurs avant qu’elles ne s’attaquent à l’expérience utilisateur.<br />
  Animations dynamiques → Créer des animations percutantes qui rendent les sites web vivants.<br />
  Intégration d’API → Connecter les bonnes ressources pour des applications rapides et performantes.<br />
 
 Pourquoi moi ?<br />
- Toujours motivé et prêt à relever de nouveaux défis… même quand le code me pique comme une araignée radioactive. <br />
- Expert en résolution de bugs, j’aime traquer et corriger les problèmes avant qu’ils ne deviennent des vilains. <br />
- Passionné par le design et l’UX, je m’efforce d’offrir des expériences utilisateur dignes d’un super-héros (sans collants, promis). <br />
+ Toujours motivé et prêt à relever de nouveaux défis…<br />
+ Expert en résolution de bugs.<br />
+ Passionné par le design et l’UX, je m’efforce d’offrir des expériences utilisateur. <br />
 
 
 
