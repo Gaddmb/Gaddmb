@@ -1,27 +1,26 @@
-Salut moi c’est koumo Gaddiel si tu préfères ! Bref, pour faire court : je suis développeur web junior, fraîchement diplômé d’OpenClassrooms.
-Je code, je débogue… et parfois je parle à mon écran ou à mes lignes de code comme s’ils étaient des vilains (ne juge pas ).<br />
+ Hi, I’m Gaddiel or Koumo if you prefer! Anyway, to keep it short: I’m a junior web developer, freshly graduated from OpenClassrooms.
+ I code, I debug… and sometimes I talk to my screen or my lines of code as if they were villains (don’t judge me).).<br />
 
-Ici, je te dévoile toutes mes compétences… comme si je me mettais à nu devant toi. Bon, peut-être pas complètement, mais tu as compris l’idée .
-Et si tu es curieux et courageux, reste dans le coin… mais je te préviens : mets tes lunettes de soleil parce que tu vas voir des lignes de code qui pourraient presque te rendre aveugle.
-Si tu veux continuer l’aventure, c’est à tes risques et périls.
+ Here, I’m showing you all my skills… as if I were baring it all in front of you. Well, maybe not completely, but you get the idea.
+ And if you’re curious and brave, stick around… but be warned: put on your sunglasses, because you’re about to see lines of code that could almost blind you.
+ If you want to continue this adventure, it’s at your own risk
 
-Mes Comeptences :<br />
- Développement front-end → Transformer des maquettes en interfaces fluides et interactives .<br />
- Débogage → Repérer et corriger les erreurs avant qu’elles ne s’attaquent à l’expérience utilisateur.<br />
- Animations dynamiques → Créer des animations percutantes qui rendent les sites web vivants.<br />
- Intégration d’API → Connecter les bonnes ressources pour des applications rapides et performantes.<br />
+ My Skills :<br />
+ Front-end development → Turning mockups into smooth and interactive interfaces.<br />
+ Debugging → Spotting and fixing errors before they mess with the user experience.<br />
+ Dynamic animations → Creating impactful animations that bring websites to life.<br />
+ API integration → Connecting the right resources for fast and efficient applications.<br />
 
-Pourquoi moi ?<br />
- Toujours motivé et prêt à relever de nouveaux défis…<br />
- Expert en résolution de bugs.<br />
- Passionné par le design et l’UX, je m’efforce d’offrir des expériences utilisateur. <br />
+ Why me ?<br />
+ Always motivated and ready for new challenges…<br />
+ Skilled at bug fixing.<br />
+ Passionate about design and UX, I aim to deliver solid user experiences. <br />
 
 
-
-Où me trouver ? :<br />
+Where to find me ? :<br />
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/qhCBdqR8) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/gaddielmb) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:gaddielmb@gmail.com) 
 
-Mes technologies :<br />
+My technologies :<br />
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
