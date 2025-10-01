@@ -1,5 +1,5 @@
  Hi, I’m Gaddiel or Koumo if you prefer! Anyway, to keep it short: I’m a junior web developer, freshly graduated from OpenClassrooms.
- I code, I debug… and sometimes I talk to my screen or my lines of code as if they were villains (don’t judge me).).<br />
+ I code, I debug… and sometimes I talk to my screen or my lines of code as if they were villains (don’t judge me).<br />
 
  Here, I’m showing you all my skills… as if I were baring it all in front of you. Well, maybe not completely, but you get the idea.
  And if you’re curious and brave, stick around… but be warned: put on your sunglasses, because you’re about to see lines of code that could almost blind you.
